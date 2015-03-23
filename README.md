@@ -4,8 +4,8 @@ A lightweight data access component based on Simple.Data for executing
 SQL Server stored procedures.
 
 This project was created to better understand the C# dynamic type and 
-how Simple.Data utilizes it. A big shout out to Mark Rendle and all the 
-contributors to Simple.Data.
+how Simple.Data utilizes it. A big shout out to Mark Rendle and the 
+contributors to Simple.Data for all their hard work!
 
 [Using dynamic and DynamicObject in C#](http://blog.theodybrothers.com/2014/10/using-dynamic-and-dynamicobject-in-c_24.html)
 
