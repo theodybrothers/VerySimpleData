@@ -1,6 +1,6 @@
 # Very Simple Data
 
-A lightweight data access component based on Simple.Data for executing 
+A lightweight data access component based on [Simple.Data](https://github.com/markrendle/Simple.Data) for executing 
 SQL Server stored procedures.
 
 This project was created to better understand the C# dynamic type and 
